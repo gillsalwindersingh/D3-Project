@@ -1,0 +1,32 @@
+body {
+  background-image: url("analysis.png");
+}
+
+h1 {
+  color: red;
+  
+}
+
+.Intro {
+  color: purple;font-size: 1em;
+}
+
+#red {
+  color: green;
+}
+
+#big-font {
+  font-size: 40px;
+}
+
+#bold-font {
+  font-weight: bold;
+}
+
+.back-black {
+  background-color: #000;
+}
+
+.small-font {
+  font-size: 10px;
+}
